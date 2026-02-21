@@ -8,7 +8,7 @@ export const siteConfig: Metadata = {
     "nextjs",
     "vercel",
     "react",
-    "space-portfolio",
+    "test-code",
     "portfolio",
     "react-icons",
     "cn",
@@ -36,6 +36,6 @@ export const siteConfig: Metadata = {
   ] as Array<string>,
   authors: {
     name: "Sanidhya Kumar Verma",
-    url: "https://github.com/sanidhyy",
+    url: "https://github.com",
   },
 } as const;

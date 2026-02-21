@@ -1,5 +1,5 @@
 {
-  "name": "space-portfolio",
+  "name": "test-code",
   "version": "1.0.1",
   "private": true,
   "scripts": {
@@ -9,9 +9,9 @@
     "lint": "eslint ."
   },
   "author": {
-    "name": "Sanidhya Kumar Verma",
-    "email": "sanidhya.verma12345@gmail.com",
-    "url": "https://github.com/sanidhyy"
+    "name": "sr",
+    "email": "abcggg666@gmail.com",
+    "url": "https://github.com"
   },
   "description": "Welcome to my full stack Next.js 14 space portfolio.",
   "keywords": [
@@ -19,7 +19,7 @@
     "nextjs",
     "vercel",
     "react",
-    "space-portfolio",
+    "test-code",
     "portfolio",
     "react-icons",
     "cn",
@@ -48,12 +48,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sanidhyy/space-portfolioit"
+    "url": "https://github.com/test-codeit"
   },
-  "homepage": "https://github.com/sanidhyy/space-portfolio#readme",
+  "homepage": "https://github.com/test-code#readme",
   "bugs": {
-    "url": "https://github.com/sanidhyy/space-portfolio/issues",
-    "email": "sanidhya.verma12345@gmail.com"
+    "url": "https://github.com/test-code/issues",
+    "email": "abcggg666@gmail.com"
   },
   "funding": [
     {
