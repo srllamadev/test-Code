@@ -130,11 +130,6 @@ Useful resources and dependencies that are used in Space Portfolio.
 
 <!--- DEPENDENCIES_END --->
 
-## Follow Me
-
-[![GitHub followers](https://img.shields.io/github/followers/sanidhyy?style=social&label=Follow&maxAge=2592000)](https://github.com "Follow Me")
-[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fx.com%2F_sanidhyy)](https://x.com/intent/tweet?text=Check+out+this+amazing+app:&url=https%3A%2F%2Fgithub.com%2Fsanidhyy%2Ftest-code "Tweet")
-
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
