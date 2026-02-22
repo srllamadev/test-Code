@@ -25,7 +25,7 @@ export const Navbar = () => {
             draggable={false}
             className="cursor-pointer"
           />
-          <div className="hidden md:flex md:selffont-bold ml-[10px] text-gray-300">logo o tiltle</div>
+          <div className="hidden md:flex md:selffont-bold ml-[10px] text-gray-300">....</div>
         </Link>
 
         {/* Web Navbar */}
@@ -48,7 +48,7 @@ export const Navbar = () => {
               rel="noreferrer noopener"
               className="cursor-pointer hover:text-[rgb(112,66,248)] transition"
             >
-              Source Code
+              Repositorio
             </Link>
           </div>
         </div>
