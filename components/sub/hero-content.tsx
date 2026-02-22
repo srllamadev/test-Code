@@ -33,11 +33,11 @@ export const HeroContent = () => {
           className="flex flex-col gap-6 mt-6 text-6xl text-bold text-white max-w-[600px] w-auto h-auto"
         >
           <span>
-            Providingddd{" "}
+            Tu colateral{" "}
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500">
-              the best
+              es tu crédito
             </span>{" "}
-            project experience.
+            Tu consumo es inteligente
           </span>
         </motion.div>
 
