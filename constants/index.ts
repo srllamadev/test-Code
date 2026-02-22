@@ -97,34 +97,26 @@ export const OTHER_SKILL = [
 
 export const PROJECTS = [
   {
-    title: "Integrante 1l",
+    title: "Integrante 1",
     description:
       'descripcionSSS',
-    image: "/projects/project-4.png",
+    image: "/projects/project-1.png",
     link: "https://github.com",
   },
   {
     title: "Integrante 2",
     description:
       'sdescripcionSSSs',
-    image: "/projects/project-5.png",
+    image: "/projects/project-2.png",
     link: "https://github.com",
   },
   {
     title: "Integrante 3",
     description:
       'descripcionSSS',
-    image: "/projects/project-6.png",
+    image: "/projects/project-3.png",
     link: "https://github.com",
   },
-  {
-    title: "Integrante 4",
-    description:
-      'descripcionSSS',
-    image: "/projects/project-6.png",
-    link: "https://github.com",
-  },
-  
 ] as const;
 
 export const FOOTER_DATA = [
