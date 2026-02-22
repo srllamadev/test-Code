@@ -205,7 +205,7 @@ export const FOOTER_DATA = [
 
 export const NAV_LINKS = [
   {
-    title: "Sobre nosotros",
+    title: "About us",
     link: "#about-me",
   },
   {
