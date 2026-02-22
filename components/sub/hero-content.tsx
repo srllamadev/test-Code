@@ -24,7 +24,7 @@ export const HeroContent = () => {
         >
           
           <h1 className="Welcome-text text-[13px]">
-            Fullstack Developer Portfolio
+            On stellar network
           </h1>
         </motion.div>
 
@@ -33,11 +33,11 @@ export const HeroContent = () => {
           className="flex flex-col gap-6 mt-6 text-6xl text-bold text-white max-w-[600px] w-auto h-auto"
         >
           <span>
-            Tu colateral{" "}
+            Tu colateral es{" "}
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500">
-              es tu crédito
+              tu crédito
             </span>{" "}
-            Tu consumo es inteligente
+            consumo es inteligente
           </span>
         </motion.div>
 
@@ -45,8 +45,7 @@ export const HeroContent = () => {
           variants={slideInFromLeft(0.8)}
           className="text-lg text-gray-400 my-5 max-w-[600px]"
         >
-          I&apos;m a Full Stack Software Engineer with experience in Website,
-          Mobile, and Software development. Check out my projects and skills.
+          Redi es un protocolo de préstamos B2B2C que utiliza XLM y USDC como motor de crédito. Obtén financiamiento inmediato con intereses mínimos y deja que la eficiencia de DeFi pague tus cuentas
         </motion.p>
 
         <motion.a
