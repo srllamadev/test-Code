@@ -2,23 +2,12 @@
 
 # Modern Space Theme Portfolio using Next.js 14 and Three.js
 
-![Modern Space Theme Portfolio using Next.js 14 and Three.js](/.github/images/img_main.png "Modern Space Theme Portfolio using Next.js 14 and Three.js")
-
-[![Ask Me Anything!](https://flat.badgen.net/static/Ask%20me/anything?icon=github&color=black&scale=1.01)](https://github.com "Ask Me Anything!")
-[![GitHub license](https://flat.badgen.net/github/license/sanidhyy/test-code?icon=github&color=black&scale=1.01)](https://github.com/test-code/blob/main/LICENSE "GitHub license")
-[![Maintenance](https://flat.badgen.net/static/Maintained/yes?icon=github&color=black&scale=1.01)](https://github.com/test-code/commits/main "Maintenance")
-[![GitHub branches](https://flat.badgen.net/github/branches/sanidhyy/test-code?icon=github&color=black&scale=1.01)](https://github.com/test-code/branches "GitHub branches")
-[![Github commits](https://flat.badgen.net/github/commits/sanidhyy/test-code?icon=github&color=black&scale=1.01)](https://github.com/test-code/commits "Github commits")
-[![GitHub issues](https://flat.badgen.net/github/issues/sanidhyy/test-code?icon=github&color=black&scale=1.01)](https://github.com/test-code/issues "GitHub issues")
-[![GitHub pull requests](https://flat.badgen.net/github/prs/sanidhyy/test-code?icon=github&color=black&scale=1.01)](https://github.com/test-code/pulls "GitHub pull requests")
-[![Netlify Status](https://api.netlify.com/api/v1/badges/451ed0e0-3541-474e-896a-4987e30a7722/deploy-status)](https://spaceportfolio.netlify.app/ "Netlify Status")
-
 <!-- Table of Contents -->
 <details>
 
 <summary>
 
-# :notebook_with_decorative_cover: Table of Contents
+# Table of Contents
 
 </summary>
 
@@ -39,7 +28,7 @@
 
 </details>
 
-## :bangbang: Folder Structure
+## Folder Structure
 
 Here is the folder structure of this app.
 
@@ -80,7 +69,7 @@ test-code/
 
 <br />
 
-## :toolbox: Getting Started
+## Getting Started
 
 1. Make sure **Git** and **NodeJS** is installed.
 
@@ -90,7 +79,7 @@ test-code/
 
 4. Now app is fully configured 👍 and you can start using this app using `npm run dev` or `yarn dev`.
 
-## :camera: Screenshots:
+## Screenshots:
 
 ![Modern UI/UX](/.github/images/img1.png "Modern UI/UX")
 
@@ -100,19 +89,19 @@ test-code/
 
 ![Showcase your projects](/.github/images/img4.png "Showcase your projects")
 
-## :gear: Tech Stack
+## Tech Stack
 
 [![React JS](https://skillicons.dev/icons?i=react "React JS")](https://react.dev/ "React JS") [![Next JS](https://skillicons.dev/icons?i=next "Next JS")](https://nextjs.org/ "Next JS") [![Typescript](https://skillicons.dev/icons?i=ts "Typescript")](https://www.typescriptlang.org/ "Typescript") [![Tailwind CSS](https://skillicons.dev/icons?i=tailwind "Tailwind CSS")](https://tailwindcss.com/ "Tailwind CSS") [![Netlify](https://skillicons.dev/icons?i=netlify "Netlify")](https://netlify.app/ "Netlify") [![Three.js](https://skillicons.dev/icons?i=threejs "Three.js")](https://threejs.org/ "Three.js")
 
-## :wrench: Stats
+## Stats
 
 [![Stats for Space Portfolio](/.github/images/stats.svg "Stats for Space Portfolio")](https://pagespeed.web.dev/analysis/https-spaceportfolio-netlify-app/2efbmg117d "Stats for Space Portfolio")
 
-## :raised_hands: Contribute
+## Contribute
 
 You might encounter some bugs while using this app. You are more than welcome to contribute. Just submit changes via pull request and I will review them before merging. Make sure you follow community guidelines.
 
-## :gem: Acknowledgements
+## Acknowledgements
 
 Useful resources and dependencies that are used in Space Portfolio.
 
@@ -141,16 +130,12 @@ Useful resources and dependencies that are used in Space Portfolio.
 
 <!--- DEPENDENCIES_END --->
 
-## :coffee: Buy Me a Coffee
-
-[<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" width="200" />](https://www.buymeacoffee.com/sanidhy "Buy me a Coffee")
-
-## :rocket: Follow Me
+## Follow Me
 
 [![GitHub followers](https://img.shields.io/github/followers/sanidhyy?style=social&label=Follow&maxAge=2592000)](https://github.com "Follow Me")
 [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fx.com%2F_sanidhyy)](https://x.com/intent/tweet?text=Check+out+this+amazing+app:&url=https%3A%2F%2Fgithub.com%2Fsanidhyy%2Ftest-code "Tweet")
 
-## :books: Learn More
+## Learn More
 
 To learn more about Next.js, take a look at the following resources:
 
@@ -159,25 +144,8 @@ To learn more about Next.js, take a look at the following resources:
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## :page_with_curl: Deploy on Vercel
+## Deploy on Vercel
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-
-## :star: Give A Star
-
-You can also give this repository a star to show more people and they can use this repository.
-
-## :star2: Star History
-
-<a href="https://star-history.com/#sanidhyy/test-code&Timeline">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=sanidhyy/test-code&type=Timeline&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=sanidhyy/test-code&type=Timeline" />
-  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=sanidhyy/test-code&type=Timeline" />
-</picture>
-</a>
-
-<br />
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
