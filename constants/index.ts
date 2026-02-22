@@ -100,21 +100,42 @@ export const PROJECTS = [
     title: "Integrante 1",
     description:
       'descripcionSSS',
-    image: "/projects/project-1.png",
+    image: "/projects/user-1.png",
     link: "https://github.com",
   },
   {
     title: "Integrante 2",
     description:
       'sdescripcionSSSs',
-    image: "/projects/project-2.png",
+    image: "/projects/user-2.png",
     link: "https://github.com",
   },
   {
     title: "Integrante 3",
     description:
       'descripcionSSS',
-    image: "/projects/project-3.png",
+    image: "/projects/user-3.png",
+    link: "https://github.com",
+  },
+  {
+    title: "Integrante 4",
+    description:
+      'descripcionSSS',
+    image: "/projects/user-4.png",
+    link: "https://github.com",
+  },
+  {
+    title: "Integrante 5",
+    description:
+      'sdescripcionSSSs',
+    image: "/projects/user-5.png",
+    link: "https://github.com",
+  },
+  {
+    title: "Integrante 6",
+    description:
+      'descripcionSSS',
+    image: "/projects/user-6.png",
     link: "https://github.com",
   },
 ] as const;
