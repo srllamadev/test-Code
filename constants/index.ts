@@ -1,4 +1,5 @@
 import { FaYoutube, FaFacebook } from "react-icons/fa";
+import { FaXTwitter } from "react-icons/fa6";
 import {
   RxDiscordLogo,
   RxGithubLogo,
@@ -35,9 +36,9 @@ export const SOCIALS = [
     link: "https://facebook.com",
   },
   {
-    name: "Twitter",
-    icon: RxTwitterLogo,
-    link: "https://x.com/_sanidhyy",
+    name: "X",
+    icon: FaXTwitter,
+    link: "https://x.com",
   },
 ] as const;
 
@@ -170,8 +171,8 @@ export const FOOTER_DATA = [
         link: "https://instagram.com",
       },
       {
-        name: "Twitter",
-        icon: RxTwitterLogo,
+        name: "X",
+        icon: FaXTwitter,
         link: "https://x.com/",
       },
       {
