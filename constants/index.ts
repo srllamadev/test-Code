@@ -99,47 +99,29 @@ export const PROJECTS = [
   {
     title: "Integrante 1l",
     description:
-      'sss',
-    image: "/projects/project-1.png",
+      'descripcionSSS',
+    image: "/projects/project-4.png",
     link: "https://github.com",
   },
   {
     title: "Integrante 2",
     description:
-      'sss',
-    image: "/projects/project-2.png",
+      'sdescripcionSSSs',
+    image: "/projects/project-5.png",
     link: "https://github.com",
   },
   {
     title: "Integrante 3",
     description:
-      'sss',
-    image: "/projects/project-3.png",
-    link: "https://github.com",
-  },
-  
-] as const;
-
-export const PROJECTSA = [
-  {
-    title: "Integrante 1l",
-    description:
-      'sss',
-    image: "/projects/project-1.png",
+      'descripcionSSS',
+    image: "/projects/project-6.png",
     link: "https://github.com",
   },
   {
-    title: "Integrante 2",
+    title: "Integrante 4",
     description:
-      'sss',
-    image: "/projects/project-2.png",
-    link: "https://github.com",
-  },
-  {
-    title: "Integrante 3",
-    description:
-      'sss',
-    image: "/projects/project-3.png",
+      'descripcionSSS',
+    image: "/projects/project-6.png",
     link: "https://github.com",
   },
   
@@ -177,7 +159,7 @@ export const FOOTER_DATA = [
       {
         name: "Twitter",
         icon: RxTwitterLogo,
-        link: "https://x.com/_sanidhyy",
+        link: "https://x.com/",
       },
       {
         name: "Linkedin",
