@@ -224,5 +224,5 @@ export const NAV_LINKS = [
 ] as const;
 
 export const LINKS = {
-  sourceCode: "https://github.com/test-code",
+  sourceCode: "https://github.com",
 };
