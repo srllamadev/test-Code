@@ -61,7 +61,7 @@ export const HeroContent = () => {
         className="w-full h-full flex justify-center items-center"
       >
         <Image
-          src="/hero-bg.png"
+          src="/hero-bgX.png"
           alt="work icons"
           height={650}
           width={650}
