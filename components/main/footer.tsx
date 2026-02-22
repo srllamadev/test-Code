@@ -30,7 +30,7 @@ export const Footer = () => {
         </div>
 
         <div className="mb-[20px] text-[15px] text-center">
-          &copy; redi {new Date().getFullYear()} Inc. All rights reserved.
+          redi 
         </div>
       </div>
     </div>
